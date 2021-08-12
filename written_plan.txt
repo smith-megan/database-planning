@@ -1,0 +1,29 @@
+USER | This table will consists of all the Users data
+User id
+Username
+User password
+User Email
+User Grocery List
+User Recipes
+User Occasions
+
+Recipes | This Table will consist of all the data that will host the Recipe Card
+Recipe Title
+Recipe Description
+UserID
+Recipe Photo
+Recipe Ingredients
+Ingredient Qty
+isPublic Boolean
+Shareable URL
+
+Ingredients |
+food items
+
+Grocery List | This will be the users Grocery list that is assigned to them
+Ingredients
+Ingredient Quantity
+
+Occasions | User can Assign Recipes per occasions that they create
+User Reference Occasion list
+User Reference Recipe list
